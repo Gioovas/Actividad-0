@@ -1,6 +1,7 @@
-# Actividad numero 1 "hello"
-#Participantes del trabajo.
 
-Caram Matias 
-y
-Crigna Giovanni
+# About me 
+#hi my name is giovanni
+
+#I´m 15 years old 
+
+#in my free time i used to play videogames and talk with my friends
